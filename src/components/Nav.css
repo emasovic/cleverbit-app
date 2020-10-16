@@ -1,0 +1,9 @@
+.Nav {
+  display: flex;
+  background-color: aliceblue;
+  min-height: 40px;
+}
+
+.Nav a {
+    margin-right: 15px;
+}
